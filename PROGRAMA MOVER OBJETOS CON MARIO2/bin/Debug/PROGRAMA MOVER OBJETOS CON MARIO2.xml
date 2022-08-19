@@ -1,0 +1,91 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PROGRAMA MOVER OBJETOS CON MARIO2
+</name>
+</assembly>
+<members>
+<member name="T:PROGRAMA_MOVER_OBJETOS_CON_MARIO2.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:PROGRAMA_MOVER_OBJETOS_CON_MARIO2.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:PROGRAMA_MOVER_OBJETOS_CON_MARIO2.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:PROGRAMA_MOVER_OBJETOS_CON_MARIO2.My.Resources.Resources.CHAMPIÑON_GOF">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAMA_MOVER_OBJETOS_CON_MARIO2.My.Resources.Resources.CHAMPIÑONCOLORES">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAMA_MOVER_OBJETOS_CON_MARIO2.My.Resources.Resources.CLOUD">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAMA_MOVER_OBJETOS_CON_MARIO2.My.Resources.Resources.gumball">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAMA_MOVER_OBJETOS_CON_MARIO2.My.Resources.Resources.interrogacion">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAMA_MOVER_OBJETOS_CON_MARIO2.My.Resources.Resources.LAS_NUBES">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAMA_MOVER_OBJETOS_CON_MARIO2.My.Resources.Resources.mario">
+<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:PROGRAMA_MOVER_OBJETOS_CON_MARIO2.My.Resources.Resources.MARIO_CORRE_DERECHA">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAMA_MOVER_OBJETOS_CON_MARIO2.My.Resources.Resources.MARIO_PIXELDERECHA">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAMA_MOVER_OBJETOS_CON_MARIO2.My.Resources.Resources.mariosalta_gif">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAMA_MOVER_OBJETOS_CON_MARIO2.My.Resources.Resources.Piranha_plant1_mario_bros3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAMA_MOVER_OBJETOS_CON_MARIO2.My.Resources.Resources.yochi">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAMA_MOVER_OBJETOS_CON_MARIO2.My.Resources.Resources.yochibaila">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
